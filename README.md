@@ -8,8 +8,8 @@ This project applies Machine Learning to predict heart disease using the UCI Cle
 
 ## Key Expertise Demonstrated
 
-    Python & Scikit-learn: Built a classification pipeline to handle health metrics.
+Python & Scikit-learn: Built a classification pipeline to handle health metrics.
 
-    Data Visualization: Used Matplotlib/Seaborn to visualize heart disease correlations with age        and cholesterol.
+Data Visualization: Used Matplotlib/Seaborn to visualize heart disease correlations with age        and cholesterol.
 
-    Statistical Analysis: Evaluated model performance using accuracy scores and confusion matrices.
+Statistical Analysis: Evaluated model performance using accuracy scores and confusion matrices.
